@@ -44,3 +44,5 @@ def naming_system
    PORTION_1[:sub_category][:sub_category][:sub_category] = PORTION_2
   PORTION_1[:sub_category][:sub_category][:sub_category][:sub_category] = PORTION_3PORTION_1[:sub_category][:sub_category][:sub_category] = {:label => "Order"}
   PORTION_1
+end
+
